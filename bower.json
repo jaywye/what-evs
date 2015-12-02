@@ -1,0 +1,23 @@
+{
+  "name": "what-evs",
+  "version": "0.0.1",
+  "description": "a simple package",
+  "main": "my.package.js",
+  "moduleType": [],
+  "keywords": [
+    "simple",
+    "package"
+  ],
+  "authors": [
+    "jmy"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
